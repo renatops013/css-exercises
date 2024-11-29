@@ -1,0 +1,15 @@
+.oddNum{
+background-color: rgb(252, 183, 183)
+}
+.oddNum.size2{
+    font-size: 24px;
+}
+#blueTxt{
+color: rgb(0, 0, 500);
+font-size: 36px;
+}
+#greenBold{
+font-size: 24px;
+font-weight: bold;
+background-color: rgb(59, 241, 132);
+}
